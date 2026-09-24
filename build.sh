@@ -26,7 +26,7 @@ case "$VERSION" in
         PYTHON_FROM="python:3.9-slim-trixie"
         ;;
     *)
-        PYTHON_FROM="python:3.12-slim-trixie"
+        PYTHON_FROM="python:3.13-slim-trixie"
         ;;
 esac
 
